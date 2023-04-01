@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "пудель.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
